@@ -1,4 +1,3 @@
-# Jax_Optimiser
 **Jax Optimizer**
 
 Here I have written code for Adam, Momentum and RMS optimizer in Jax. Jax is mainly built for high performance machine learning research.
